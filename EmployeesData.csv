@@ -1,0 +1,21 @@
+﻿EMP_ID,NAME,DOB,GENDER,NATIONALITY,DEGREE,DEPT,JOB_DESCRIPTION
+1,Ahmed,1998-03-15,Male,Egypt,Mechanical Engineering,engineering,Mechanical Design Engineer
+2,Sarah,1997-07-22,Female,Jordan,Civil Engineering,engineering,Structural Engineer
+3,Omar,1995-05-11,Male,UAE,Electrical Engineering,engineering,Power Systems Engineer
+4,Lina,1999-01-18,Female,Lebanon,Software Engineering,engineering,Embedded Systems Engineer
+5,Youssef,1994-09-09,Male,Kuwait,Finance,finance,Financial Analyst
+6,Maya,1996-04-30,Female,Egypt,Accounting,finance,Budget Analyst
+7,Karim,1993-12-12,Male,Morocco,Economics,finance,Investment Associate
+8,Nour,1997-08-14,Female,Syria,Banking & Finance,finance,Risk Management Officer
+9,Habiba,2004-06-12,Female,Egypt,Mechatronics & Robotics Engineering,IT,Software Developer
+10,Adam,2000-02-21,Male,Egypt,Computer Science,IT,Backend Developer
+11,Dana,1998-10-10,Female,Palestine,Information Technology,IT,IT Support Specialist
+12,Ali,1999-05-17,Male,Iraq,Cybersecurity,IT,Security Analyst
+13,Salma,1996-07-07,Female,Egypt,Marketing,marketing,Digital Marketing Specialist
+14,Faisal,1995-03-02,Male,Kuwait,Business Administration,marketing,Brand Manager
+15,Jana,1997-06-19,Female,Lebanon,Data Science,data management,Data Analyst
+16,Hassan,1994-11-01,Male,Egypt,Information Systems,data management,Database Administrator
+17,Tasnim,1998-09-25,Female,Pakistan,Computer Engineering,data management,Data Engineer
+18,Ibrahim,1993-12-01,Male,Egypt,Statistics,data management,Business Intelligence Analyst
+19,Reem,1996-04-04,Female,Jordan,Biomedical Engineering,R&D,Research Engineer
+20,Yazan,1995-08-28,Male,Syria,Artificial Intelligence,R&D,AI Research Scientist
